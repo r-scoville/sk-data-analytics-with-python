@@ -1,4 +1,4 @@
-# SK-data-analytics-with-python
+# Data Analytics with Python (Cognizant/ShiftKey Labs)
 Author:
 Rose Scoville
 
